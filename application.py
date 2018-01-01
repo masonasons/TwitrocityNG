@@ -1,3 +1,3 @@
 name="TwitrocityNG"
-version="0.2"
+version="0.21"
 author="Mason Armstrong"
